@@ -304,7 +304,7 @@
     "copy-from": "bionic_general",
     "type": "BIONIC_ITEM",
     "name": "Fingerhack CBM",
-    "description": "One of your fingers has an electrohack embedded in it; an all-purpose hacking unit used to override control panels and the like (but not computers).  Skill in computers is important, and a failed use may damage your circuits.",
+    "description": "One of your fingers has an electrohack embedded in it: an all-purpose hacking unit used to override control panels and the like (but not computers).  Having skill in computers is still important though, and a failed use may damage your circuits.",
     "price": 350000,
     "difficulty": 2
   },
@@ -367,7 +367,7 @@
     "copy-from": "bionic_general",
     "type": "BIONIC_ITEM",
     "name": "Heat Drain CBM",
-    "description": "While fighting unarmed against a warm-blooded opponent, there is a chance that a successful hit will drain body heat, inflicting a small amount of extra damage, and increasing your power reserves slightly.",
+    "description": "While fighting unarmed against a warm-blooded opponent, there is a chance that a successful hit will drain body heat, inflicting a small amount of extra damage and increasing your power reserves slightly.",
     "price": 550000,
     "difficulty": 5
   },
@@ -593,7 +593,7 @@
     "copy-from": "bionic_general_npc_usable",
     "type": "BIONIC_ITEM",
     "name": "Air Filtration System CBM",
-    "description": "Implanted in your trachea is an advanced filtration system.  If toxins, or airborne diseases find their way into your windpipe, the filter will attempt to remove them.  Reducing the toxic effects.",
+    "description": "Implanted in your trachea is an advanced filtration system.  If toxins or airborne diseases find their way into your windpipe, the filter will attempt to remove them, reducing the toxic effects.",
     "price": 450000,
     "difficulty": 4
   },
@@ -702,7 +702,7 @@
     "copy-from": "bionic_general",
     "type": "BIONIC_ITEM",
     "name": "Shockwave Generator CBM",
-    "description": "You generate a powerful shockwave, knocking back all nearby creatures.  Targets are stunned briefly, take damage and additional stun upon impact with impassable terrain, and knockback any creatures they collide with.",
+    "description": "You generate a powerful shockwave, knocking back all nearby creatures.  Targets are stunned briefly, take damage, are additionally stunned upon impact with impassable terrain, and knockback any creatures they collide with.",
     "price": 550000,
     "difficulty": 5
   },
