@@ -1,0 +1,15 @@
+[
+  {
+    "type": "COMESTIBLE",
+    "id": "freezedry_apple",
+    "copy-from": "apple",
+    "name": "freeze-dried apple",
+    "description": "Mmm, freezedried.  Will remain edible nearly forever.  Sterilized and dehydrated by sublimination.",
+    "proportional": { "price": 2 },
+    "spoils_in": 0,
+    "quench": -5,
+    "flags": [ ],
+    "freezing_point": -100,
+    "container": "bag_plastic"
+  }
+]

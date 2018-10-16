@@ -2540,7 +2540,7 @@
     "id": "extinguisher",
     "type": "TOOL",
     "name": "large fire extinguisher",
-    "description": "This is an emergency fire extinguisher containing three gallons of fire retardant foam.  It would be useful for putting out adjacent fires.",
+    "description": "This is an emergency fire extinguisher containing three gallons of pressurized carbon dioxide.  It would be useful for putting out adjacent fires.",
     "weight": 9071,
     "volume": 46,
     "price": 5000,
@@ -2549,9 +2549,10 @@
     "material": "steel",
     "symbol": ";",
     "color": "red",
-    "initial_charges": 60,
-    "max_charges": 60,
+    "initial_charges": 100,
+    "max_charges": 100,
     "charges_per_use": 1,
+    "ammo": "carbon_dioxide",
     "use_action": "EXTINGUISHER"
   },
   {
@@ -6490,6 +6491,7 @@
     "initial_charges": 10,
     "max_charges": 10,
     "charges_per_use": 1,
+    "ammo": "carbon_dioxide",
     "use_action": "EXTINGUISHER"
   },
   {

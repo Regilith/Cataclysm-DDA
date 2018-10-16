@@ -1012,5 +1012,23 @@
     "contains": 17,
     "seals": true,
     "watertight": true
+  },
+  {
+    "id": "cooler",
+    "type": "CONTAINER",
+    "category": "other",
+    "name": "cooler",
+    "name_plural": "coolers",
+    "description": "A plastic cooler, built for temperature retention, helps keep things cold.  Contains 20L.",
+    "weight": 2000,
+    "price": 6000,
+    "volume": 25,
+    "contains": 80,
+    "material": "plastic",
+    "symbol": "I",
+    "color": "blue",
+    "seals": true,
+    "watertight": true,
+    "insulation": 10
   }
 ]

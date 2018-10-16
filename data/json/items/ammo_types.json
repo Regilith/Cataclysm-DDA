@@ -472,5 +472,11 @@
         "id": "paintball",
         "name": "paintball",
         "default": "paintball"
+    },
+    {
+        "type": "ammunition_type",
+        "id": "carbon_dioxide",
+        "name": "carbon dioxide",
+        "default": "carbon_dioxide"
     }
 ]

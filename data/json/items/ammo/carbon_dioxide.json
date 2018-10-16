@@ -1,0 +1,18 @@
+[
+  {
+    "id": "carbon_dioxide",
+    "type": "AMMO",
+    "name": "carbon dioxide",
+    "description": "A mixture of carbon and oxygen, often used in fire extinguishers.",
+    "weight": 1,
+    "volume": 1,
+    "price": 2400,
+    "material": [ "hydrocarbons" ],
+    "symbol": "=",
+    "color": "white",
+    "count": 100,
+    "stack_size": 100,
+    "ammo_type": "carbon_dioxide",
+    "flags": [ "NO_DROP", "IRREMOVABLE" ]
+  }
+]
